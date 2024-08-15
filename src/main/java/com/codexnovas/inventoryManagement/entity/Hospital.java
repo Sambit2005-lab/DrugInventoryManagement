@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Entity
+@Table(name = "Buyer_side")
 public class Hospital {
 
     @Id
