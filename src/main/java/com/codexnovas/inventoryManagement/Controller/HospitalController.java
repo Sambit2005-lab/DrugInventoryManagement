@@ -62,3 +62,4 @@ public class HospitalController {
         return ResponseEntity.noContent().build();
     }
 }
+
